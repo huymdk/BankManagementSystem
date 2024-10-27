@@ -1,0 +1,17 @@
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.exe.config
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.exe
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\bin\Debug\BankManagement.pdb
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.AssemblyReference.cache
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Login.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Properties.Resources.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.GenerateResource.cache
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.csproj.CoreCompileInputs.cache
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.exe
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.pdb
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.frmMain.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.frmCustomer.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Account.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.transcaction.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Employee.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.loan.resources
+C:\Users\HUY-PC\source\repos\BankManagement\BankManagement\obj\Debug\BankManagement.Dashboard.resources
